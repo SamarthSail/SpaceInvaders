@@ -1,4 +1,4 @@
-This project is a Java-based recreation of the classic arcade game Space Invaders. The game involves a player controlling a laser cannon at the bottom of the screen, aiming to shoot and destroy waves of descending aliens. The project emphasizes object-oriented programming principles and includes various components such as game graphics, user input handling, collision detection, and sound effects.
+This project is a Java-based recreation of the classic arcade game Space Invaders. The game involves a player controlling a laser cannon at the bottom of the screen, aiming to shoot and destroy waves of descending aliens. The project is meant to demonstrate object-oriented programming principles and includes various components such as game graphics, user input handling, collision detection, and sound effects.
 
 Technologies Used:
 Java Programming Language: Core logic and game mechanics.
