@@ -2,7 +2,7 @@ import java.awt.Image;
 
 public class PlayerBullet extends Sprite2D {
     private static double ySpeed = 10;
-    private boolean isActive = true; // Flag to determine if bullet is active
+    private boolean isActive = true; // to determine if bullet is active
 
     public PlayerBullet(Image i1, Image i2) {
         super(i1, i2);
