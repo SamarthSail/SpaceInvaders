@@ -15,7 +15,7 @@ public class Spaceship extends Sprite2D {
         // apply current movement
         x += xSpeed;
 
-        // stop movement at screen edge?
+        // for when we need to stop movement at screen edge
         if (x <= 0) {
             x = 0;
             xSpeed = 0;
