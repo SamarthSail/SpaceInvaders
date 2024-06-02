@@ -3,7 +3,7 @@ import java.awt.*;
 public abstract class Sprite2D {
     // member data
     protected double x, y;
-    protected Image myImage1, myImage2; // Separate images
+    protected Image myImage1, myImage2; // Separate images for changing between alien animations when needed
     protected int framesDrawn = 0;
     protected int width, height; // Width and height of the sprite
 
