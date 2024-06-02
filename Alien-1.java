@@ -2,7 +2,7 @@ import java.awt.Image;
 
 public class Alien extends Sprite2D {
     private static double xSpeed = 0;
-    private boolean isAlive = true; // Flag to determine if alien is alive
+    private boolean isAlive = true; // to determine if alien is alive
 
     public Alien(Image i1, Image i2) {
         super(i1, i2); // invoke constructor on superclass Sprite2D
@@ -12,7 +12,7 @@ public class Alien extends Sprite2D {
     public boolean move() {
         x += xSpeed;
 
-        // direction reversal needed?
+        // for when a directional reverse is needed
         
         if (x <= 0 || x >= winWidth - myImage1.getWidth(null)) {
             return true;
