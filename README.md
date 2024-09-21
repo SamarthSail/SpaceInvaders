@@ -1,6 +1,6 @@
 # Space Invaders Game
 
-Welcome to Space Invaders, a simple 2D shooter game based on the classic arcade game. In this project, you will control a spaceship to shoot down alien invaders as they descend upon Earth. The game features smooth animations, bullet mechanics, and increasing difficulty as the player progresses through the waves. This project demonstrates efficient OOP principles, ex: Encapsulation, Inheritance, Polymorphism, etc; 
+Welcome to Space Invaders, a simple 2D shooter game based on the classic arcade game. In this project, you will control a spaceship to shoot down alien invaders as they descend upon Earth. The game features smooth animations, bullet mechanics, and increasing difficulty as the player progresses through the waves. This project is meant to demonstrate good coding principles using efficient OOP principles, ex: Encapsulation, Inheritance, Polymorphism, etc; Threading and Double Buffering for smooth game loop and animations; and effective use of Array and ArrayList data structures, along with other common key coding and design principles.
 
 ## Table of Contents
 - [Features](#features)
